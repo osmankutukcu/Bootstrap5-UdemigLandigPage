@@ -6,3 +6,4 @@ Bootstrap 5 hem bir kütüphane (library) hem de bir framework olarak nitelendir
 Tamamen Bootstrap 5 'in bu özellikleri kullanarak tasarlanmıştır.
 <h3>Ekran Görüntüsü :</h3>
 ![screenshot](screenshot.gif)
+<img src="screenshot.gif" alt="screenshot">
