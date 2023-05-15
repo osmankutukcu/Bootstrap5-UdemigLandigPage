@@ -1,0 +1,33 @@
+/*# sourceMappingURL=main.css.map */
+body {
+  padding-top: 50px;
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+}
+
+.card-social-links a {
+  margin-right: 10px; /* İstenilen boşluğu ayarlayın */
+}
+
+/* card efect*/
+/*1*/
+.card:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+  transform: translateY(-5px);
+}
+
+.card:hover .card-social-links a i {
+  transform: scale(1.2);
+}
+.card:hover .card-title {
+  color: #0c6dfd; /* Hover durumunda başlık rengi */
+  transition: color 0.3s ease-in-out; /* Rengin değişimi için geçiş ayarı */
+}
+
+/*2*/
+
+/* ------------------ */
